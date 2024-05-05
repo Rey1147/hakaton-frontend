@@ -1,6 +1,6 @@
 function App() {
   return (
-    <>Hello zalypka</>
+    <>Zalupka welcomes the world!</>
   );
 }
 export default App;
